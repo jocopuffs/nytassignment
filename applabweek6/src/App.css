@@ -1,0 +1,42 @@
+.photo {
+  height: 50px;
+  width: 50px;
+}
+
+.artbox {
+  display: flex;
+  flex-direction: row;
+  width: 750px;
+  margin: auto;
+  font-family: Georgia;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.date {
+  font-size: 10px;
+  width: 150px;
+  color: grey;
+  font-family: helvetica;
+}
+
+.author {
+  font-size: 10px;
+  color: grey;
+  font-family: helvetica;
+}
+
+#one{
+  border-bottom: 2px solid lightgrey;
+}
+
+.pretitle {
+  color: black;
+  font-size: 10px;
+  margin: 0px;
+  font-family: helvetica;
+}
